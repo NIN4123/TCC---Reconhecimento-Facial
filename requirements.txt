@@ -1,0 +1,12 @@
+# Instale com:  py -3.11 -m pip install -r requirements.txt
+# Depois, o face_recognition à parte (sem as dependências, para não compilar o dlib):
+#   py -3.11 -m pip install face_recognition --no-deps
+opencv-python
+numpy
+mysql-connector-python
+setuptools<81
+flask
+dlib-bin
+Click
+Pillow
+face_recognition_models

@@ -1,0 +1,19 @@
+# Configuração local (contém a senha do MySQL: NUNCA enviar ao GitHub)
+config.py
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs gerados pelo iniciar.pyw
+saida.log
+painel.log
+
+# Pasta criada automaticamente na primeira execução
+area_restrita/
+
+# Editores
+.vscode/
+.idea/
