@@ -70,8 +70,11 @@ Testado no **Windows 10/11**.
 ```
 git clone https://github.com/NIN4123/TCC---Reconhecimento-Facial.git
 cd TCC---Reconhecimento-Facial
+```
 
 ### 3. Instalar as bibliotecas
+
+Digite no terminal (dentro da pasta do projeto) os comandos abaixo, um por vez:
 
 ```
 py -3.11 -m pip install -r requirements.txt
